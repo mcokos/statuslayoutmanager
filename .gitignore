@@ -1,0 +1,13 @@
+*.iml
+/.gradle
+/local.properties
+/.idea
+.DS_Store
+local.properties
+StatusLayoutManager.iml
+/gradle
+/build
+/app/build
+/statuslayoutmanager/build
+/captures
+.externalNativeBuild
